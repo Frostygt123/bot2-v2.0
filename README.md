@@ -3,7 +3,7 @@ Xanax On Arrival
 ==============================
 X O A Bot2 v2.0 - How To Work 
 ---------------- 
-Author - Frostygt123 
+Author - Frostygt123 aka Skid Larp
 Date - 9/19/25 
 ------- 
 Py backend to run discord bot when token and channel id is replaced, and there is 35 Dos, Ping, Lookups, &amp; more option's of choice....  
